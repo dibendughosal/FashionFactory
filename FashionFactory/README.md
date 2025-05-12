@@ -2,7 +2,7 @@
 
 
 
-About This Course:
+About This Projects:
 
 -   🚀 Project Setup
 -   🗄️ MongoDB & Redis Integration
